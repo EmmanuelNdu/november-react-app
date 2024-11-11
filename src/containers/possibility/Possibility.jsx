@@ -8,10 +8,13 @@ const Possibility = () => {
       <div className='gpt3__possibility-image'>
         <img src= { possibilityImage } alt='possibility'/>
       </div>
-      <div className='gpt3_possibility-content'>
+      <div className='gpt3__possibility-content'>
         <h4>Request Early Access to get Started</h4>
-        <h1 className='gradient-text'>The Possibility are Beyond Your Imagination</h1>
-        <p>Predictable CSS: With a structured naming system, you can easily figure out which class applies.</p>
+        <h1 className='gradient__text'>The Possibility are Beyond Your Imagination</h1>
+        <p>Predictable CSS: With a structured naming system, 
+          you can easily figure out which class applies.structured naming system, 
+          you can easily figure out which class applies structured naming system, 
+          you can easily figure out which class applies</p>
         <h4>Request Early Access to get Started</h4>
       </div>
     </div>
